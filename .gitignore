@@ -1,0 +1,7 @@
+.venv/
+build/
+dist/
+tests/
+ss_checker.spec
+SS_Report_*/
+SS/
